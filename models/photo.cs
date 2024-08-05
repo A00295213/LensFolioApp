@@ -5,7 +5,7 @@ using System;
 public class Photo
 {
     public int PhotoId{get; set;}//unique identifier foe the photo
-    public string Title {get; set;}// Title of photo
+    public string Title {get; set;}// THIS IS THE Title of photo
    
     public string Description {get; set;}// Description of the photo
     public int PortfolioId {get; set;}// Id for the portfolio containing this photo
